@@ -12,4 +12,3 @@ If you are an employee of CEB need access to our GitHub repositories, there are 
 ## Key repositories
 * New Pub Tech
   * [jarvis](https://github.com/cebucla/jarvis)
-  * apollo - Peter is looking for it
